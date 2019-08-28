@@ -32,11 +32,6 @@ body {
   margin: auto;
 }
 
-.carousel{
-    background-color: #996a4e !important; 
-}
-
-
 
 /* MARKETING CONTENT
 -------------------------------------------------- */
@@ -92,10 +87,7 @@ body {
   }
 }
 
-.arrow-prev{
-    
-}
-
-.arrow-next{
-    
+.arrow {
+    font-size: 40px;
+    color:#DFDCD7;
 }
